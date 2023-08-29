@@ -1,0 +1,201 @@
+/* Font add */
+
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+#banner {
+    height: 80vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    background-color: rgb(229, 84, 115, 10%);
+    margin-bottom: 100px;
+}
+
+.banner-div {
+    text-align: left;
+    height: 80%;
+    width: 35vw;
+    margin-bottom: 0;
+}
+
+div {
+    display: block;
+}
+h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+}
+p {
+    color: rgb(39, 39, 39, 60%);
+    font-size: small;
+    line-height: 18px;
+}
+.button {
+    background-color: #E55473;
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.banner-div {
+    text-align: left;
+    height: 80%;
+    width: 35vw;
+    margin-bottom: 0;
+}
+#banner-photo {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+/* Features flowers css */
+
+#feature-section {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 20px 0;
+    text-align: center;
+}
+div {
+    display: block;
+}
+#feature-images {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+#feature-1 {
+    background-color: rgb(5, 151, 160, 15%);
+}
+.feature-img {
+
+    height: 62vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 5px;
+    border-radius: 50% 50% 0% 0%;
+}
+.image {
+    width: 70%;
+}
+.feature h3 {
+    text-decoration: underline;
+}
+#feature-2 {
+    background-color: rgb(71, 125, 17, 15%);
+}
+#feature-3 {
+    background-color: rgb(137, 33, 98, 15%);
+}
+/* best deals section */
+#wedding-text {
+    text-align: center;
+}
+#categories {
+    display: flex;
+    justify-content: center;
+}
+.category-div {
+    width: 40vw;
+    height: 40vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#try-button {
+    width: 10vw;
+}
+.button {
+    background-color: #E55473;
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+#category-img {
+    width: 80%;
+    height: auto;
+}
+
+/* Hot deal section */
+#deals {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(229, 84, 115, 10%);
+    padding: 50px;
+}
+
+span {
+    color: #E55473;
+}
+
+/* Instagram section */
+#social {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#social-images {
+    display: flex;
+    justify-content: space-evenly;
+}
+.social-img {
+    margin: auto;
+    width: 20vw;
+    margin: 5px;
+}
+
+/* form section */
+#forms {
+    margin: auto;
+    width: 84%;
+    margin-bottom: 80px;
+    text-align: center;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../Flower\ Asset/Rectangle\ 9.png);
+    border-radius: 5px;
+}
+.forms-div {
+    margin-bottom: 20px;
+}
+#form {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+input {
+    width: 40vw;
+    padding: 12px 24px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Footer section */
+footer {
+    color: #FFFFFF;
+    background-color: #111010;
+    margin-bottom: 0;
+    height: 45vh;
+    text-align: center;
+    padding: 40px;
+}
+footer p {
+    color: #FFFFFF;
+    margin-top: 50px;
+}
