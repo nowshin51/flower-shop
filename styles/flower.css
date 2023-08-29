@@ -138,19 +138,7 @@ div {
   .hot-deal span {
     color: #e55473;
   }
-  .hot-deal-title {
-    color: #272727;
-    font-size: 40px;
-    font-weight: 800;
-    padding: 20px;
-  }
-  .hot-deal-description {
-    color: rgba(39, 39, 39, 0.6);
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 30px;
-  }
+  
 /* Instagram section */
 #social {
     display: flex;
