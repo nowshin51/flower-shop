@@ -127,17 +127,18 @@ div {
 }
 
 /* Hot deal section */
-.hot-deal {
+#deals {
     display: flex;
+    align-items: center;
+    /* justify-content: center; */
     justify-content: space-between;
-    text-align: center;
-    border-radius: 8px;
-    padding: 100px 200px;
-    background: rgba(229, 84, 115, 0.05);
-  }
-  .hot-deal span {
-    color: #e55473;
-  }
+    background-color: rgb(229, 84, 115, 10%);
+    padding: 50px;
+}
+
+span {
+    color: #E55473;
+}
   
 /* Instagram section */
 #social {
